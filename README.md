@@ -1,7 +1,7 @@
 # Subscription Management System with Currency Exchange Tracker
 
 A Django-based system for managing subscriptions with real-time currency exchange tracking.
-
+![Alt text](/media/token.png "token")
 ## Features
 - ✅ User subscription management  
 - 💰 Plan management  
