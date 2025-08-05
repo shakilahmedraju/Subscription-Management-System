@@ -1,0 +1,14 @@
+# .gitignore
+
+__pycache__/
+*.py[cod]
+venv/
+*.log
+*.DS_Store
+*.egg-info/
+
+# VSCode settings
+.vscode/
+
+# Django/Migrations
+**/migrations/
