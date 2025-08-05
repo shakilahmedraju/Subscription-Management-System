@@ -53,7 +53,7 @@ python manage.py createsuperuser
 sudo service redis-server start
 
 # Celery Run
-celery -A SubXTrackee worker --loglevel=info
+celery -A SubXTracker worker --loglevel=info
 
 # Django Server
 python manage.py runserver
