@@ -45,7 +45,7 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Install dependencies
+# create superuser for admin login
 python manage.py migrate
 python manage.py createsuperuser
 
